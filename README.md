@@ -73,9 +73,9 @@
 <a href="https://github.com/RD191295/Instrument_Cluster"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=RD191295&repo=Instrument_Cluster&theme=react&bg_color=1F222E&title_color=8FBCBB&icon_color=F8D866&hide_border=true&show_icons=false" alt="vite-boilerplate"></a>
 </p>
 <br>
-<h2 align="center">Github Follower count💻</h2>
+<h2 align="center">Github Follower count 🧮</h2>
 <a><img src="https://img.shields.io/github/followers/RD191295?label=Followers&style=social" alt="GitHub Badge"></a>
-<h2 align="center">Github Follower count💻</h2>
+<h2 align="center">Github Profile count 🧮</h2>
 <a><img src="https://komarev.com/ghpvc/?username=RD191295&color=orange&style=flat-square" alt="Visitor Count"></a>
 
   ### <h1><p align ="center"> Show Some ❤️ By  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="25px"> My repositories!<img src="https://user-images.githubusercontent.com/76244600/130682427-5b987fe2-9a2e-4e08-9e59-b951a8e58a84.gif" width="25px"></p> </h1>
