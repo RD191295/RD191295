@@ -5,7 +5,7 @@
 ## Hi there I'm Raj Dalsaniya <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 > **Well done is better than Well said**💪
 
-# I'm a Tech Enthusiast!! </b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="44px">
+# I'm a Tech Enthusiast!! </b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="44px">
 
 - 🌱 I’m currently learning Computer vision and Deep Learning
 - 🔭 I’m currently working on Computer vision projects
@@ -78,6 +78,3 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=RD191295&color=orange&style=flat-square)
 
   ### <h1><p align ="center"> Show Some ❤️ By  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="25px"> My repositories!<img src="https://user-images.githubusercontent.com/76244600/130682427-5b987fe2-9a2e-4e08-9e59-b951a8e58a84.gif" width="25px"></p> </h1>
-
-
--->
