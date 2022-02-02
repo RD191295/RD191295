@@ -23,7 +23,7 @@
 <a href="https://twitter.com/Raj__1912" target="blank" >
     <img align="left" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/polarameshchandra/">
+  <a href="https://www.instagram.com/rd_1912/">
     <img align="left"  src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="mailto:rajdalsaniya1995@gmail.com">
