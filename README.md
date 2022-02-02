@@ -68,7 +68,7 @@
 
 <h2 align="center">My Trending Repos 💻</h2>
  <p align='center'>
-  <a href="https://github.com/RD191295/Webdev-Projects"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=RD191295&repo=Webdev-Projects&theme=react&bg_color=1F222E&title_color=8FBCBB&icon_color=F8D866&hide_border=true&show_icons=false" alt="vite-boilerplate"></a>
+  <a href="https://github.com/RD191295/MedTech"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=RD191295&repo=MedTech&theme=react&bg_color=1F222E&title_color=8FBCBB&icon_color=F8D866&hide_border=true&show_icons=false" alt="vite-boilerplate"></a>
 <a href="https://github.com/RD191295/Team-Dijkstra_Hackx"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=RD191295&repo=Team-Dijkstra_Hackx&theme=react&bg_color=1F222E&title_color=8FBCBB&icon_color=F8D866&hide_border=true&show_icons=false" alt="vite-boilerplate"></a>
 <a href="https://github.com/RD191295/Blogs"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=RD191295&repo=Blogs&theme=react&bg_color=1F222E&title_color=8FBCBB&icon_color=F8D866&hide_border=true&show_icons=false" alt="vite-boilerplate"></a>
 </p>
