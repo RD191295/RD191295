@@ -75,7 +75,7 @@
 <br>
 <h2 align="center">Github Follower count💻</h2>
 <a><img src="https://img.shields.io/github/followers/RD191295?label=Followers&style=social" alt="GitHub Badge"></a>
-<h2 align="center">Visiotor Count 💻</h2>
+
 ![Visitor Count](https://komarev.com/ghpvc/?username=RD191295&color=orange&style=flat-square)
 
   ### <h1><p align ="center"> Show Some ❤️ By  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="25px"> My repositories!<img src="https://user-images.githubusercontent.com/76244600/130682427-5b987fe2-9a2e-4e08-9e59-b951a8e58a84.gif" width="25px"></p> </h1>
