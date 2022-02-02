@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning Computer vision and Deep Learning
 - 🔭 I’m currently working on Computer vision projects
 - 👯 I’m looking to collaborate on various projects related to computer vision and Deep Learning
-- 💬 Ask me about ...
+- 💬 Ask me about Python programming,computer vision 
 - 📫 How to reach me: you can connect with me using my various social media profiles.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like to travel and exlore nature.
