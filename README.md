@@ -70,7 +70,7 @@
  <p align='center'>
   <a href="https://github.com/RD191295/MedTech"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=RD191295&repo=MedTech&theme=react&bg_color=1F222E&title_color=8FBCBB&icon_color=F8D866&hide_border=true&show_icons=false" alt="vite-boilerplate"></a>
 <a href="https://github.com/RD191295/Distance_between_points"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=RD191295&repo=Distance_between_points&theme=react&bg_color=1F222E&title_color=8FBCBB&icon_color=F8D866&hide_border=true&show_icons=false" alt="vite-boilerplate"></a>
-<a href="https://github.com/RD191295/Blogs"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=RD191295&repo=Blogs&theme=react&bg_color=1F222E&title_color=8FBCBB&icon_color=F8D866&hide_border=true&show_icons=false" alt="vite-boilerplate"></a>
+<a href="https://github.com/RD191295/Instrument_Cluster"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=RD191295&repo=Instrument_Cluster&theme=react&bg_color=1F222E&title_color=8FBCBB&icon_color=F8D866&hide_border=true&show_icons=false" alt="vite-boilerplate"></a>
 </p>
 <br>
 <a><img src="https://img.shields.io/github/followers/RD191295?label=Followers&style=social" alt="GitHub Badge"></a>
