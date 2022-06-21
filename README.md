@@ -2,8 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F77222&size=29&multiline=true&width=700&lines=Welcome+To+Raj+Dalsaniya's+GitHub+Profile)](https://git.io/typing-svg)
 
 <a href="#"><img width="28%" height="auto" align="right" src="130684066-fb0b5e47-6c93-469e-ba45-7cb62833b965.png" /></a>
-## Hi there I'm Raj Dalsaniya <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
-> **Well done is better than Well said**💪
+## Hi there I'm Raj Dalsaniya **Well done is better than Well said**💪
 
 # I'm a Tech Enthusiast!! </b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="44px">
 
