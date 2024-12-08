@@ -7,7 +7,7 @@
 # I'm a Tech Enthusiast!! </b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="44px">
 
 - 🌱 I’m currently learning Computer vision and Deep Learning
-- 🔭 I’m currently working on Computer vision projects
+- 🔭 I’m currently working on Computer vision projects and Genrative AI
 - 👯 I’m looking to collaborate on various projects related to computer vision and Deep Learning
 - 💬 Ask me about Python programming,computer vision 
 - 📫 How to reach me: you can connect with me using my various social media profiles.
