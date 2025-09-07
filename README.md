@@ -1,5 +1,6 @@
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F77222&size=29&multiline=true&width=700&lines=Welcome+To+Raj+Dalsaniya's+GitHub+Profile)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Namaste! Welcome to my profile&animation=fadeIn&color=gradient&height=100"/>
+</p>
 
 <a href="#"><img width="28%" height="auto" align="right" src="130684066-fb0b5e47-6c93-469e-ba45-7cb62833b965.png" /></a>
 ## Hi there I'm Raj Dalsaniya **Well done is better than Well said**💪
