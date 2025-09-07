@@ -66,13 +66,6 @@ fun_fact: "I love chai ☕ and debugging late at night 🌙"
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=RD191295&show_icons=true&count_private=true&theme=react&hide_border=true" width="48%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RD191295&layout=compact&theme=react&hide_border=true&langs_count=8" width="48%" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=RD191295&theme=black-ice&hide_border=true&background=0D1117" width="48%" /> <img src="https://activity-graph.herokuapp.com/graph?username=RD191295&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" width="48%" /> </p>
 
-<!-- 
-<table><td valign="top" width="50%">
- -->
-<!-- </td><td valign="top" width="50%"> -->
-
-<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rameshchandrapola&theme=radical&hide_border=true&stroke=0000&background=060A0CD0" align="left" style="width: 100%" /> -->
-<!-- </td></table>   -->
 
 <h2 align="center">My Trending Repos 💻</h2>
  <p align='center'>
