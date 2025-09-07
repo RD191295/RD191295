@@ -19,6 +19,7 @@ interests:
   - Embedded Systems
 
 fun_fact: "I love chai ☕ and debugging late at night 🌙"
+```
 
 # I'm a Tech Enthusiast!! </b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="44px">
 
