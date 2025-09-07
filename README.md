@@ -64,14 +64,7 @@ fun_fact: "I love chai ☕ and debugging late at night 🌙"
 
 ## 📊 My Github Stats <img src="https://user-images.githubusercontent.com/76244600/130684889-4425a8ef-53ba-48f3-9433-871976fba0e9.gif" width="45px">
 
-  
-   <p align="center" >
- <a href="#"><img alt="Raj's Github Stats"   src="https://github-readme-stats.vercel.app/api?username=RD191295&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a></p>
-  <p align="center" >
- <a href="#"><img  alt="Raj's streak"  src="https://github-readme-streak-stats.herokuapp.com/?user=RD191295&theme=black-ice&hide_border=true&stroke=0000&background=0D1117" /> </a></p>
-
-
-<a href="#"><img alt="Raj's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=RD191295&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=RD191295&show_icons=true&count_private=true&theme=react&hide_border=true" width="48%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RD191295&layout=compact&theme=react&hide_border=true&langs_count=8" width="48%" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=RD191295&theme=black-ice&hide_border=true&background=0D1117" width="48%" /> <img src="https://activity-graph.herokuapp.com/graph?username=RD191295&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" width="48%" /> </p>
 
 <!-- 
 <table><td valign="top" width="50%">
