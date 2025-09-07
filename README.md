@@ -5,22 +5,6 @@
 
 ---
 
-### 🚀 About Me
-```yaml
-name: Raj Dalsaniya
-role: R&D Engineer
-experience: 5+ years
-location: Gujarat, India
-interests:
-  - Generative AI
-  - Computer Vision
-  - Machine Learning
-  - Deep Learning
-  - Embedded Systems
-
-fun_fact: "I love chai ☕ and debugging late at night 🌙"
-```
-
 # I'm a Tech Enthusiast!! </b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="44px">
 
 - 🌱 I’m currently learning Generative AI.
@@ -29,8 +13,9 @@ fun_fact: "I love chai ☕ and debugging late at night 🌙"
 - 💬 Ask me about Python programming,computer vision,Generative AI
 - 📫 How to reach me: you can connect with me using my various social media profiles.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I like to travel and exlore nature.
+- ⚡ Fun fact: I love chai ☕ and debugging late at night. Love to travel !!
 
+---
 
 ## Connect with me:<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 <a href="https://www.linkedin.com/in/raj-dalsaniya/" target="blank" >
@@ -47,7 +32,9 @@ fun_fact: "I love chai ☕ and debugging late at night 🌙"
   </a>
   <br>
   <br>
-  
+
+---
+
  ## Languages and Tools:
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
@@ -57,15 +44,20 @@ fun_fact: "I love chai ☕ and debugging late at night 🌙"
 ![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 <br>
 
+---
+
 ## 📊 Top Used Languages <img src="https://user-images.githubusercontent.com/76244600/130684889-4425a8ef-53ba-48f3-9433-871976fba0e9.gif" width="45px">
 <!--  <a > <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RD191295&layout=compact&show_icons=true&bg_color=45,fc00ff,00dbde&title_color=000&text_color=000"  align="center" height="165" /></a> -->
  <p align="center" >
  <a href="#"><img alt="Raj's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RD191295&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=false&bg_color=0D1117" /></a></p>
 
+---
+
 ## 📊 My Github Stats <img src="https://user-images.githubusercontent.com/76244600/130684889-4425a8ef-53ba-48f3-9433-871976fba0e9.gif" width="45px">
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=RD191295&show_icons=true&count_private=true&theme=react&hide_border=true" width="48%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RD191295&layout=compact&theme=react&hide_border=true&langs_count=8" width="48%" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=RD191295&theme=black-ice&hide_border=true&background=0D1117" width="48%" /> <img src="https://activity-graph.herokuapp.com/graph?username=RD191295&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" width="48%" /> </p>
 
+---
 
 <h2 align="center">My Trending Repos 💻</h2>
  <p align='center'>
@@ -78,5 +70,7 @@ fun_fact: "I love chai ☕ and debugging late at night 🌙"
 <a><img src="https://img.shields.io/github/followers/RD191295?label=Followers&style=social" alt="GitHub Badge"></a>
 <h2 align="center">Github Profile count 🧮</h2>
 <a><img src="https://komarev.com/ghpvc/?username=RD191295&color=orange&style=flat-square" alt="Visitor Count"></a>
+
+---
 
   ### <h1><p align ="center"> Show Some ❤️ By  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="25px"> My repositories!<img src="https://user-images.githubusercontent.com/76244600/130682427-5b987fe2-9a2e-4e08-9e59-b951a8e58a84.gif" width="25px"></p> </h1>
