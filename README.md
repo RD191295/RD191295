@@ -1,5 +1,6 @@
+<h1 align="center">👋 Hi, I'm Raj Dalsaniya</h1>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Namaste! Welcome to my profile&animation=fadeIn&color=gradient&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=30&animation=fadeIn" />
 </p>
 
 <a href="#"><img width="28%" height="auto" align="right" src="130684066-fb0b5e47-6c93-469e-ba45-7cb62833b965.png" /></a>
