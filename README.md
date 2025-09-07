@@ -3,8 +3,22 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=30&animation=fadeIn" />
 </p>
 
-<a href="#"><img width="28%" height="auto" align="right" src="130684066-fb0b5e47-6c93-469e-ba45-7cb62833b965.png" /></a>
-## Hi there I'm Raj Dalsaniya **Well done is better than Well said**💪
+---
+
+### 🚀 About Me
+```yaml
+name: Raj Dalsaniya
+role: R&D Engineer
+experience: 5+ years
+location: Gujarat, India
+interests:
+  - Generative AI
+  - Computer Vision
+  - Machine Learning
+  - Deep Learning
+  - Embedded Systems
+
+fun_fact: "I love chai ☕ and debugging late at night 🌙"
 
 # I'm a Tech Enthusiast!! </b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="44px">
 
