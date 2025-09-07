@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Raj Dalsaniya</h1>
 <p align="center">
- <img src="https://capsule-render.vercel.app/api?type=3d&text=Hi%20I'm%20Raj!&color=gradient&height=120&fontSize=50&animation=fadeIn" />
+ <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=120&section=header&text=Welcome%20to%20My%20Profile%20🎉&fontSize=40&animation=fadeIn" />
 </p>
 
 ---
